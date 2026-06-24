@@ -1,0 +1,10 @@
+# Uploads (file bukti yang diunggah user)
+/public/uploads/*
+!/public/uploads/.gitkeep
+
+# OS / editor
+.DS_Store
+Thumbs.db
+*.log
+.idea/
+.vscode/
